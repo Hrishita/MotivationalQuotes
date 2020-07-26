@@ -1,0 +1,17 @@
+{
+  "name": "motivationalquoteswebservices",
+  "version": "1.0.0",
+  "description": "web services for android app motivational quotes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Devarsh Mavani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.13.0",
+    "pg": "^8.3.0"
+  }
+}

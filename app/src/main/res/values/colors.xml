@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#262A30</color>
+    <color name="colorPrimaryDark">#262A30</color>
+    <color name="colorAccent">#F39E1C</color>
+    <color name="colorPOrange">#F39E1C </color>
+    <color name="colorPGreen">#22B271</color>
+    <color name="colorPRed">#E85041 </color>
+    <color name="colorPLightOrange">#CEF39E1C</color>
+
+
+    <color name="colorGreen1">#AFE313</color>
+    <color name="colorGreen2">#63B76C</color>
+    <color name="colorGreen4">#33CC99</color>
+    <color name="colorGreen5">#1AB385</color>
+    <color name="colorGreen6">#29AB87</color>
+    <color name="colorGreen7">#00755E</color>
+    <color name="colorBlue17">#A0E6FF</color>
+    <color name="colorBlue18">#4BC7CF</color>
+    <color name="colorBlue1">#76D7EA</color>
+    <color name="colorBlue2">#0095B7</color>
+    <color name="colorBlue3">#47ABCC</color>
+    <color name="colorBlue4">#2887C8</color>
+    <color name="colorBlue5">#1560BD</color>
+    <color name="colorBlue6">#4F69C6</color>
+    <color name="colorBlue7">#6456B7</color>
+    <color name="colorBlue8">#9C51B6</color>
+    <color name="colorBlue9">#A50B5E</color>
+    <color name="colorBlue10">#D96CBE</color>
+    <color name="colorBlue11">#C8509B</color>
+    <color name="colorBlue12">#FF007C</color>
+    <color name="colorBlue13">#FD5B78</color>
+    <color name="colorBlue14">#FF5470</color>
+    <color name="colorBlue15">#E30B5C</color>
+    <color name="colorBlue16">#FF007C</color>
+    <color name="colorRed7">#FFEB00</color>
+    <color name="colorRed8">#FF9933</color>
+    <color name="colorRed1">#ED0A3F</color>
+    <color name="colorRed2">#FD0E35</color>
+    <color name="colorRed3">#ED0A3F</color>
+    <color name="colorRed4">#FF681F</color>
+    <color name="colorRed5">#FF6037</color>
+    <color name="colorRed6">#FE6F5E</color>
+
+
+</resources>
